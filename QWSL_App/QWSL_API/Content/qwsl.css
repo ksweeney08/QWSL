@@ -1,0 +1,72 @@
+﻿body {
+}
+
+header {
+    
+
+}
+
+#qwsl-header {
+    background-image:url('/images/QWSL_background.jpg');
+    background-size:cover;
+    min-height:300px;
+
+}
+
+.qwsl-logo img {
+    width:300px;
+}
+
+.navbar {
+    /*background-color:#cc3333;*/
+    background-color:#0066ff;
+        
+}
+
+ .navbar a {
+     color:white;
+     
+    }
+
+/*.nav>li>a:focus,.nav>li>a:hover {
+    text-decoration:none;
+    background-color:#336699;
+
+}*/
+
+ 
+
+.navbar-header {
+    
+}
+
+.navbar-brand {
+    
+    height:inherit;
+}
+
+.qwsl-navbar-button {
+    border-color:white;
+    color:white;
+}
+
+.qwsl-navbar-button .icon-bar {
+        background-color:white;
+    }
+
+.navbar-toggle .icon-bar {
+}
+
+
+/*.panel-default {
+    border:none;
+}*/
+.panel-default > .panel-heading {
+    background-color:transparent;
+    
+
+}
+
+.panel-heading {
+    border:none;
+}
